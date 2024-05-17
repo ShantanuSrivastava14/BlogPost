@@ -1,4 +1,3 @@
-```markdown
 # Blog Post Project
 
 This repository contains the HTML code for a simple blog post page that compares two popular frontend frameworks: ReactJs and Angular. The page includes images, bullet points, tables, and hyperlinks. 
