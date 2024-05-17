@@ -170,4 +170,3 @@ The blog post page is structured using HTML tables, images, ordered lists, and u
 ## Conclusion
 
 This project serves as a practical example of creating a structured blog post page using only HTML. It highlights the key differences between ReactJs and Angular and provides a comprehensive overview of each framework’s features and benefits.
-```
